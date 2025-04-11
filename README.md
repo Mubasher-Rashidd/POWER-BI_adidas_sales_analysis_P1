@@ -1,5 +1,3 @@
-# POWER-BI---adidas_sales_analysis_P1
-
 # Adidas Sales Analysis 📈
 
 ![Adidas Sales Analysis](https://via.placeholder.com/800x200.png?text=Adidas+Sales+Analysis)  
