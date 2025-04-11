@@ -1,7 +1,6 @@
 # Adidas Sales Analysis 📈
 
-![Adidas Sales Analysis](https://via.placeholder.com/800x200.png?text=Adidas+Sales+Analysis)  
-*Note: Replace the image above with a picture of your Power BI dashboard.*
+![Adidas Sales Analysis](https://github.com/Mubasher-Rashidd/POWER-BI_adidas_sales_analysis_P1/blob/main/adidas_dashboard.png?raw=true)  
 
 ## What is this project?
 
