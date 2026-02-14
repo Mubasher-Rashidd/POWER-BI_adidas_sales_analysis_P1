@@ -1,4 +1,4 @@
-# Adidas Sales Analysis 📈
+# Enterprise Sales Performance Intelligence Dashboard 📈
 
 ![Adidas Sales Analysis](https://github.com/Mubasher-Rashidd/POWER-BI_adidas_sales_analysis_P1/blob/main/adidas_dashboard.png?raw=true)  
 
