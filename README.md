@@ -4,7 +4,7 @@
 
 ## What is this project?
 
-This project is called **Adidas Sales Analysis**. It uses Power BI to look at Adidas sales data and help the company make better decisions. We want to understand sales trends, profits, and what’s working well, so Adidas can grow and do better in the sports industry.
+This project is called **Enterprise Sales Performance Intelligence Dashboard**. It uses Power BI to look at Adidas sales data and help the company make better decisions. We want to understand sales trends, profits, and what’s working well, so Adidas can grow and do better in the sports industry.
 
 The project has a Power BI dashboard with charts to show sales in a clear way.
 
